@@ -1,0 +1,17 @@
+.App {
+  height: 500vh;
+  margin-top: 100px;
+}
+
+.content,
+.placeholder {
+  height: 300px;
+}
+
+.content {
+  background: green;
+}
+
+.placeholder {
+  background: gray;
+}
